@@ -26,14 +26,14 @@
 
 `conda activate snake_env`
  
-`pyton -m pip r requirements.txt`
+`python -m pip r requirements.txt`
 
 <a name="train"></a>
 ## Train
 
-`pyton train.py`
+`python train.py`
 
 <a name="test"></a>
 ## Test
 
-`pyton test.py`
+`python test.py`
